@@ -1,2 +1,3 @@
 # Vending-Machine
-A Vending Machine using Tkinter library from Python
+A Vending Machine application using Tkinter library from Python
+
