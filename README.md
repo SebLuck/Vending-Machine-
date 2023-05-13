@@ -15,7 +15,7 @@ A bar chart was implemented in the vending machine. You can view the stock avail
 - You can clear your input in case you made a mistake in the process.
 
 # Limitation
-One of the major problems with this program is that you cannot remove a product from your cart. If you have already added a product to your cart, for example, you will not be able to delete it. 
+One of the major problems with this program is that you cannot remove a product from your cart. For example, if you have already added a product to your cart, you will not be able to delete it. 
 
 ## Getting Started
 
