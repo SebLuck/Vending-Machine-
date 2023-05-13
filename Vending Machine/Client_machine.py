@@ -558,8 +558,7 @@ def shop():
 
     # If the user has already got his/her total price, he/she will not be able to add another product to his/her cart.
     if total_price > 0:
-        messagebox.showerror("Error", "You can't shop again as you have already choose all the products that you will "
-                                      "buy")
+        messagebox.showerror("Error", "You can't shop again as you have already chosen all the products that you will buy.")
     # If the user has not received his/her total price, he/she can continue to add products to the cart.
     else:
         window2 = Tk()
