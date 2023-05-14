@@ -21,8 +21,8 @@ One of the major problems with this program is that you cannot remove a product 
 
 - To run the project, you will need to install tkinter, matplotlib, and socket libraries. 
 - Then, unzip the file in a directory.
-- You will have to open two command prompts in the path where you added all the files.
-- In one of the command prompts, you will have to run the file Server_machine.py first: python Server_machine.py
-- Then you run the other Python file at the second command prompt: python Client_machine.py
+- Open two command prompts in the path where you added all the files.
+- In one of the command prompts, run the file Server_machine.py first: python Server_machine.py
+- Then, run the other Python file at the second command prompt: python Client_machine.py
 - After this, you will normally get a welcome message.
 
