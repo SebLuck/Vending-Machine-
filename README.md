@@ -1,6 +1,6 @@
 # Vending-Machine
-This project was on a vending machine application coded in Python using the Tkinter, Matplotlib, and Socket libraries.
-Interaction with the user was used on the client-side, and the data storage was processed on the server-side by interacting with the current stock of a product and updating the stock based on the orders made by the client.
+This project was on a vending machine application coded in Python using the Tkinter, Matplotlib, and Socket libraries.  
+Interaction with the user was used on the client-side, and the data storage was processed on the server-side by interacting with the current stock of a product and updating the stock based on the orders made by the client.  
 A bar chart was implemented in the vending machine. You can view the stock available through this bar chart. It could be useful if you want to know which product is out of stock or not. 
 
 # Features
@@ -17,7 +17,7 @@ A bar chart was implemented in the vending machine. You can view the stock avail
 # Limitation
 One of the major problems with this program is that you cannot remove a product from your cart. For example, if you have already added a product to your cart, you will not be able to delete it. 
 
-## Getting Started
+# Getting Started
 
 - To run the project, you will need to install tkinter, matplotlib, and socket libraries. 
 - Then, unzip the file in a directory.
